@@ -5,3 +5,4 @@ init programa
 version 2
 fin programa
 nuevas líneas
+hola ro te estoy modificando el texto adios
