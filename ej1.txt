@@ -1,4 +1,7 @@
 
 ejemplo de git
+init programa
 
-cambios archivo
+version 2
+fin programa
+nuevas líneas
