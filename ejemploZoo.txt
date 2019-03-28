@@ -6,3 +6,5 @@ Parte de comida para los animales
 1. El león come niños
 2. El cocodrilo come niñas
 3. El pajaro come bichitos
+4. El elefante es muy grande
+5. Las focas son graciosas
